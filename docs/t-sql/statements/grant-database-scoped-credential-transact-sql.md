@@ -1,4 +1,4 @@
----
+--- 
 title: GRANT Database Scoped Credential (Transact-SQL)
 description: "GRANT Database Scoped Credential Permissions (Transact-SQL)"
 ms.prod: sql
